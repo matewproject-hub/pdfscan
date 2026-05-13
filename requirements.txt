@@ -1,0 +1,9 @@
+torch
+transformers[torch]
+opencv-python
+numpy
+Pillow
+fastapi
+pdf2image
+uvicorn
+python-multipart
