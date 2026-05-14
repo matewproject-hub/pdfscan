@@ -39,3 +39,7 @@ ENV/
 .idea/
 .vscode/
 .DS_Store
+
+#Output
+output/
+training_data/
