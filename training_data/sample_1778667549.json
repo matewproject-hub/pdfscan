@@ -1,0 +1,210 @@
+{
+  "words": [
+    "Indian Union Driving Licence",
+    "Issued by Government Of Tamil Nadu",
+    "IN",
+    "TN60 19940002011",
+    "08-09-1994",
+    "Issue Date",
+    "Validity (NT)",
+    "Validity (TR)",
+    "08-09-1994",
+    "05-02-203414-10-2025",
+    "Date offirst ssue",
+    "Name:",
+    "Holder's Signature",
+    "MURUGAVEL-S",
+    "Date of Birth:05-03-1974",
+    "Blood Group:B+",
+    "OrganQonor:N",
+    "Son/Daughter/Wife of:",
+    "SOLAI",
+    "Address:",
+    "3 MERKKU STREET PALLAVARAYANPATTY",
+    "UTHAMAPALAYAM,THENI,TN625524",
+    "DLR"
+  ],
+  "boxes": [
+    [
+      180,
+      293,
+      650,
+      322
+    ],
+    [
+      180,
+      317,
+      788,
+      349
+    ],
+    [
+      931,
+      321,
+      959,
+      334
+    ],
+    [
+      272,
+      360,
+      595,
+      387
+    ],
+    [
+      969,
+      397,
+      992,
+      489
+    ],
+    [
+      259,
+      414,
+      366,
+      436
+    ],
+    [
+      435,
+      418,
+      569,
+      440
+    ],
+    [
+      600,
+      420,
+      725,
+      442
+    ],
+    [
+      268,
+      441,
+      410,
+      462
+    ],
+    [
+      447,
+      443,
+      743,
+      471
+    ],
+    [
+      958,
+      498,
+      972,
+      606
+    ],
+    [
+      39,
+      516,
+      107,
+      535
+    ],
+    [
+      775,
+      517,
+      933,
+      542
+    ],
+    [
+      51,
+      533,
+      234,
+      556
+    ],
+    [
+      38,
+      557,
+      327,
+      578
+    ],
+    [
+      415,
+      563,
+      611,
+      585
+    ],
+    [
+      713,
+      566,
+      902,
+      591
+    ],
+    [
+      37,
+      579,
+      261,
+      603
+    ],
+    [
+      51,
+      594,
+      125,
+      616
+    ],
+    [
+      35,
+      614,
+      123,
+      635
+    ],
+    [
+      47,
+      635,
+      463,
+      661
+    ],
+    [
+      48,
+      660,
+      425,
+      687
+    ],
+    [
+      816,
+      699,
+      868,
+      723
+    ]
+  ],
+  "labels": [
+    "O",
+    "O",
+    "O",
+    "O",
+    "B-VALIDITY_TR",
+    "O",
+    "O",
+    "O",
+    "B-VALIDITY_TR",
+    "O",
+    "O",
+    "O",
+    "O",
+    "B-BLOOD_GROUP",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O"
+  ],
+  "parsed_debug": {
+    "_headers": [
+      "Indian Union Driving Licence",
+      "Issued by Government Of Tamil Nadu",
+      "IN",
+      "DLR"
+    ],
+    "Issue Date": "TN60 19940002011",
+    "Validity (NT)": "14-10-2025",
+    "Validity (TR)": "08-09-1994",
+    "Name": "08-09-1994",
+    "Holder's Signature": "'s Signature",
+    "Date of Birth": "Date offirst ssue",
+    "Blood Group": "MURUGAVEL-S",
+    "Organ Donor": "05-03-1974",
+    "Son/Daughter/Wife of": "of",
+    "Address": "3 MERKKU STREET PALLAVARAYANPATTY UTHAMAPALAYAM,THENI,TN625524"
+  }
+}

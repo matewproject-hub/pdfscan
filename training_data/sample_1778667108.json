@@ -1,0 +1,125 @@
+{
+  "words": [
+    "Son/Daughter/Wife o:ALI KUTTY T K",
+    "Dale Of Birth01-07-1979 Blood Group:A+",
+    "NameISHAKTK",
+    "RURMALAPPURAM,676102",
+    "12-05-2005",
+    "$sue DateValidity NT)Validity TR",
+    "KL55 20050003385",
+    "Issued by KERALA",
+    "Indian Union Driving Licence",
+    "22-06-2035",
+    "Organ DonorNo",
+    "Holder's Signature",
+    "Date Of First Issue 12-05-2005"
+  ],
+  "boxes": [
+    [
+      416,
+      312,
+      429,
+      463
+    ],
+    [
+      434,
+      312,
+      446,
+      485
+    ],
+    [
+      464,
+      312,
+      481,
+      389
+    ],
+    [
+      356,
+      319,
+      368,
+      427
+    ],
+    [
+      509,
+      381,
+      526,
+      431
+    ],
+    [
+      528,
+      382,
+      543,
+      555
+    ],
+    [
+      555,
+      381,
+      571,
+      473
+    ],
+    [
+      580,
+      385,
+      597,
+      482
+    ],
+    [
+      604,
+      385,
+      620,
+      560
+    ],
+    [
+      507,
+      423,
+      525,
+      488
+    ],
+    [
+      424,
+      515,
+      444,
+      590
+    ],
+    [
+      443,
+      554,
+      453,
+      617
+    ],
+    [
+      363,
+      618,
+      554,
+      637
+    ]
+  ],
+  "labels": [
+    "O",
+    "O",
+    "O",
+    "O",
+    "B-DATE_OF_FIRST_ISSUE",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O"
+  ],
+  "parsed_debug": {
+    "_headers": [
+      "Issued by KERALA",
+      "Indian Union Driving Licence"
+    ],
+    "Son/Daughter/Wife of": "o",
+    "Blood Group": "Name ISHAKTK",
+    "Validity (NT)": "ALI KUTTY T K",
+    "Validity (TR)": "KL55 20050003385",
+    "Organ Donor": "No",
+    "Holder's Signature": "'s Signature",
+    "Date of First Issue": "12-05-2005"
+  }
+}

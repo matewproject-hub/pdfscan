@@ -1,0 +1,36 @@
+{
+  "words": [
+    "LNo:KL55 20050003385",
+    "Hazardous validityHil Validit",
+    "2-05-2"
+  ],
+  "boxes": [
+    [
+      579,
+      337,
+      593,
+      449
+    ],
+    [
+      504,
+      396,
+      520,
+      532
+    ],
+    [
+      431,
+      440,
+      443,
+      463
+    ]
+  ],
+  "labels": [
+    "O",
+    "O",
+    "O"
+  ],
+  "parsed_debug": {
+    "_headers": [],
+    "Validity": "Hil Validit"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "words": [
+    "Indian Union Driving Licence",
+    "KL",
+    "Issued by Government of Kerala",
+    "DL No.KL5520020003458",
+    "Date Of Flrst Issue03-05-2002",
+    "Issue Date",
+    "Validity NT",
+    "Validity TR",
+    "03-05-2002",
+    "03-11-2026",
+    "KLA001351080",
+    "KUNDANI SAIDALAVI BEERANKUTTY",
+    "Name",
+    "Date Of Birth:15-03-1965 Blood Group:O+",
+    "Organ DonorNo",
+    "Holder's Signature",
+    "S/D/WofKUNDANI SAIDALAVI",
+    "Present Address",
+    "Permanent Address",
+    "KUNDANI HOUSE,",
+    "KUNDANI HOUSE,",
+    "POILISSERY PO,",
+    "POILSSERY PO,",
+    "TIRUR,MALAPPURAM,676102",
+    "TIRUR,MALAPPURAM,676102"
+  ],
+  "boxes": [
+    [
+      232,
+      368,
+      635,
+      386
+    ],
+    [
+      810,
+      380,
+      836,
+      392
+    ],
+    [
+      230,
+      390,
+      675,
+      410
+    ],
+    [
+      220,
+      440,
+      479,
+      453
+    ],
+    [
+      851,
+      458,
+      868,
+      657
+    ],
+    [
+      224,
+      465,
+      335,
+      480
+    ],
+    [
+      370,
+      463,
+      535,
+      480
+    ],
+    [
+      526,
+      463,
+      665,
+      478
+    ],
+    [
+      223,
+      487,
+      331,
+      502
+    ],
+    [
+      367,
+      486,
+      476,
+      500
+    ],
+    [
+      68,
+      492,
+      100,
+      602
+    ],
+    [
+      264,
+      512,
+      659,
+      524
+    ],
+    [
+      138,
+      515,
+      197,
+      530
+    ],
+    [
+      138,
+      540,
+      574,
+      553
+    ],
+    [
+      139,
+      562,
+      314,
+      575
+    ],
+    [
+      672,
+      563,
+      845,
+      577
+    ],
+    [
+      138,
+      582,
+      498,
+      596
+    ],
+    [
+      506,
+      600,
+      666,
+      613
+    ],
+    [
+      141,
+      606,
+      341,
+      618
+    ],
+    [
+      505,
+      617,
+      652,
+      630
+    ],
+    [
+      141,
+      624,
+      294,
+      636
+    ],
+    [
+      504,
+      630,
+      645,
+      643
+    ],
+    [
+      141,
+      638,
+      294,
+      650
+    ],
+    [
+      505,
+      643,
+      741,
+      654
+    ],
+    [
+      142,
+      652,
+      391,
+      661
+    ]
+  ],
+  "labels": [
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "B-VALIDITY_TR",
+    "B-NAME",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O"
+  ],
+  "parsed_debug": {
+    "_headers": [
+      "Indian Union Driving Licence",
+      "KL",
+      "Issued by Government of Kerala"
+    ],
+    "Issue Date": "DL No.KL5520020003458",
+    "Validity (NT)": "Date Of Flrst Issue 03-05-2002",
+    "Validity (TR)": "03-05-2002",
+    "Name": "03-11-2026",
+    "Date of Birth": "15-03-1965",
+    "Blood Group": "O+",
+    "Organ Donor": "No",
+    "Holder's Signature": "'s Signature",
+    "Address": "KUNDANI HOUSE, KUNDANI HOUSE, POILISSERY PO, POILSSERY PO, TIRUR,MALAPPURAM,676102 TIRUR,MALAPPURAM,676102"
+  }
+}

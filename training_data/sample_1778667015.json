@@ -1,0 +1,157 @@
+{
+  "words": [
+    "DRIVING LICENCE BATHINDA (PB)",
+    "No.:",
+    "15030Date:30/10/2006",
+    "NameSUDHEERAK",
+    "S/DW:ARAMUGHAN",
+    "Address AMN DEPOT C/O 56 APO",
+    "Hol.Sig",
+    "B.Gp.:",
+    "D.O.B.30/05/1974",
+    "NEW LICENCE",
+    "SCOOTER CAR ONLY",
+    "Valid Upto29/05/2024",
+    "142663",
+    "Endorsements",
+    "Licenciny-Authority",
+    "Holder is licenced to dnive throughout",
+    "BATHINDA",
+    "India vehicals of the above description"
+  ],
+  "boxes": [
+    [
+      315,
+      234,
+      789,
+      317
+    ],
+    [
+      443,
+      285,
+      483,
+      306
+    ],
+    [
+      565,
+      300,
+      781,
+      349
+    ],
+    [
+      438,
+      310,
+      656,
+      355
+    ],
+    [
+      434,
+      333,
+      656,
+      377
+    ],
+    [
+      427,
+      355,
+      754,
+      413
+    ],
+    [
+      241,
+      400,
+      338,
+      436
+    ],
+    [
+      424,
+      397,
+      485,
+      424
+    ],
+    [
+      572,
+      417,
+      763,
+      462
+    ],
+    [
+      344,
+      420,
+      489,
+      455
+    ],
+    [
+      184,
+      425,
+      390,
+      467
+    ],
+    [
+      539,
+      443,
+      765,
+      493
+    ],
+    [
+      172,
+      447,
+      237,
+      471
+    ],
+    [
+      167,
+      469,
+      327,
+      507
+    ],
+    [
+      623,
+      498,
+      760,
+      533
+    ],
+    [
+      437,
+      509,
+      770,
+      571
+    ],
+    [
+      622,
+      510,
+      738,
+      545
+    ],
+    [
+      423,
+      524,
+      760,
+      586
+    ]
+  ],
+  "labels": [
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O"
+  ],
+  "parsed_debug": {
+    "_headers": [],
+    "Address": "AMN DEPOT C/O 56 APO",
+    "Holder's Signature": "is licenced to dnive throughout"
+  }
+}

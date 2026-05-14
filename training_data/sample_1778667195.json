@@ -1,0 +1,206 @@
+{
+  "words": [
+    "Indian Union Driving Licence",
+    "Issued by State of Kerala",
+    "DL No.KL5520140008695",
+    "Issue Dale",
+    "ValidityNT",
+    "Validity TR",
+    "28-06-2014",
+    "02-08-2026",
+    "Name",
+    "HAMZA CHEENIKKAL",
+    "Date Of Birth15-07-1954Blood GroupO+",
+    "Organ Donor.No",
+    "Holder's Signatur",
+    "S/D/WoYAHU",
+    "Date OfFirs",
+    "Permanent Address",
+    "Present Address",
+    "CHEENIKKAL HOUSE,",
+    "CHEENIKKAL HOUSE",
+    "ANANTHAVOOR THIRUNAVAYA",
+    "ANANTHAVOOR THIRUNAVAYA,",
+    "TIRUR.MALAPPURAM,676301",
+    "TIRUR.MALAPPURAM.6763"
+  ],
+  "boxes": [
+    [
+      384,
+      415,
+      595,
+      431
+    ],
+    [
+      385,
+      428,
+      563,
+      442
+    ],
+    [
+      376,
+      448,
+      513,
+      463
+    ],
+    [
+      377,
+      465,
+      437,
+      475
+    ],
+    [
+      452,
+      465,
+      534,
+      477
+    ],
+    [
+      528,
+      465,
+      611,
+      477
+    ],
+    [
+      376,
+      475,
+      439,
+      487
+    ],
+    [
+      448,
+      474,
+      512,
+      488
+    ],
+    [
+      330,
+      490,
+      368,
+      502
+    ],
+    [
+      389,
+      489,
+      522,
+      502
+    ],
+    [
+      329,
+      502,
+      563,
+      518
+    ],
+    [
+      331,
+      516,
+      430,
+      527
+    ],
+    [
+      616,
+      520,
+      699,
+      531
+    ],
+    [
+      330,
+      528,
+      440,
+      539
+    ],
+    [
+      705,
+      531,
+      715,
+      568
+    ],
+    [
+      330,
+      538,
+      431,
+      552
+    ],
+    [
+      525,
+      539,
+      604,
+      550
+    ],
+    [
+      333,
+      550,
+      431,
+      560
+    ],
+    [
+      525,
+      550,
+      616,
+      560
+    ],
+    [
+      334,
+      558,
+      476,
+      568
+    ],
+    [
+      523,
+      558,
+      663,
+      566
+    ],
+    [
+      334,
+      567,
+      461,
+      575
+    ],
+    [
+      526,
+      566,
+      638,
+      573
+    ]
+  ],
+  "labels": [
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "B-VALIDITY_TR",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O"
+  ],
+  "parsed_debug": {
+    "_headers": [
+      "Indian Union Driving Licence",
+      "Issued by State of Kerala"
+    ],
+    "Validity (NT)": "DL No.KL5520140008695",
+    "Validity (TR)": "28-06-2014",
+    "Name": "HAMZA CHEENIKKAL",
+    "Date of Birth": "15-07-1954",
+    "Blood Group": "O+",
+    "Organ Donor": ".No",
+    "Holder's Signature": "'s Signatur",
+    "Address": "CHEENIKKAL HOUSE, CHEENIKKAL HOUSE ANANTHAVOOR THIRUNAVAYA ANANTHAVOOR THIRUNAVAYA, TIRUR.MALAPPURAM,676301 TIRUR.MALAPPURAM.6763"
+  }
+}

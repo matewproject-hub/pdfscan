@@ -1,9 +1,26 @@
+# Core OCR & Detection
+paddleocr>=2.8.1
+paddlepaddle>=2.6.2
+opencv-python>=4.10.0
+numpy<2.0.0
+pillow>=10.0.0
+
+# Hybrid Transformer Recognition (TrOCR)
 torch
-transformers[torch]
-opencv-python
-numpy
-Pillow
-fastapi
+torchvision
+transformers>=4.40.0
+sentencepiece
+accelerate
+
+# PDF & Image Handling
 pdf2image
-uvicorn
+
+# FastAPI Web Server
+fastapi
+uvicorn[standard]
 python-multipart
+
+# Utilities
+tqdm
+rich
+python-dotenv
